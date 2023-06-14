@@ -1,5 +1,16 @@
-# Getting Started with Create React App
+# GPT-ST | GPT-3 Simple Landing Page
 
+[Click Here](https://gpt.tullio-forneris.it) and try it!
+
+![Landing](src/assets/landing.png)
+
+### [Keep Updated](https://linkedin.com/in/tullio-forneris) --> Follow me on LinkedIn
+### [Let's collaborate](https://github.com/sonotullio) --> Follow me on GitHub
+### [Other Projects](https://tullio-forneris.it) --> Take a look at my portfolio, you will find all my projects, my ideas, my contacts!
+
+
+
+# Getting Started with Create ReactApp
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
